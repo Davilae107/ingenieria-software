@@ -1,0 +1,11 @@
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\bin\Debug\net9.0\Cafetera.Domain.deps.json
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\bin\Debug\net9.0\Cafetera.Domain.dll
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\bin\Debug\net9.0\Cafetera.Domain.pdb
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\Cafetera.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\Cafetera.Domain.AssemblyInfoInputs.cache
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\Cafetera.Domain.AssemblyInfo.cs
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\Cafetera.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\Cafetera.Domain.dll
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\refint\Cafetera.Domain.dll
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\Cafetera.Domain.pdb
+C:\Users\Emilio\Desktop\itla\7mo cuatri\ingenieria software\Cafetera.Domain\obj\Debug\net9.0\ref\Cafetera.Domain.dll
