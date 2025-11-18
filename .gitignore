@@ -1,0 +1,57 @@
+# 📦 Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# 🔧 Visual Studio
+.vs/
+.vscode/
+*.csproj.user
+*.sln.DotSettings
+
+# 📝 Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# 🧪 Test Results
+TestResults/
+*.trx
+coverage/
+
+# 📚 NuGet
+.nuget/
+packages/
+*.nuspec
+*.nupkg
+
+# 🐛 Debugging
+*.log
+debug.txt
+
+# 🔐 Environment
+.env
+.env.local
+appsettings.local.json
+
+# 🍎 macOS
+.DS_Store
+._*
+
+# 🪟 Windows
+Thumbs.db
+*.swp
+*.swo
+
+# 📋 IDE temps
+*.tmp
+*.temp
+*~
+
+# 🎯 Code Coverage
+OpenCover/
+coverage.xml
+
+# 📦 Generated files
+*.generated.cs
