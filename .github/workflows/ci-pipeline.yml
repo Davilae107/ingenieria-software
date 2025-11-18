@@ -1,0 +1,35 @@
+name: CI Pipeline
+
+on: 
+  push:
+    branches: [ main, develop, feature/* ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+      
+      - name: Configurar entorno
+        run: echo "Configurando entorno de compilación"
+      
+      - name: Compilar proyecto
+        run: echo "Ejecutando compilación"
+      
+      - name: Instalar .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.x'
+      
+      - name: Restaurar dependencias
+        run: dotnet restore
+      
+      - name: Compilar proyecto C#
+        run: dotnet build --configuration Release --no-restore
+      
+      - name: Ejecutar pruebas unitarias
+        run: dotnet test --configuration Release --no-build --verbosity normal
